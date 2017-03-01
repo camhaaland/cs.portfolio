@@ -1,5 +1,5 @@
 body {
   color:black;
   font-family: cursive;
-  background-color: steelblue;
+  background-color: 66cccc;
 }
