@@ -1,5 +1,5 @@
 
-body {
+head {
   color:black;
   font-family: cursive;
   background-color: gray
