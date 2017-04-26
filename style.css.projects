@@ -4,3 +4,6 @@ head {
   font-family: cursive;
   background-color: gray
 }
+body {
+  color:black;
+  }
