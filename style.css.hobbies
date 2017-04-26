@@ -4,3 +4,8 @@ body {
   font-family: cursive;
   background-color: gray
 }
+head {
+  color:turquoise;
+  font-family: cursive;
+  background-color: gray
+}
